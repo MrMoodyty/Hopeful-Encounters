@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/MyLevel.umap",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/NewMap_HLOD0_Instancing.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset",
@@ -151,7 +150,9 @@
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/__ExternalActors__/NewMap/1/P9/4A9C0ZMMCWVVGE2SZJY6JN.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/__ExternalActors__/NewMap/6/SA/VS934BPTSMYQ0AFH65VWB5.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/__ExternalActors__/NewMap/8/KG/YV6ECH3CV6FBMS5TOEO3GS.uasset",
-				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/NewMap.umap"
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/NewMap.umap",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_Test.umap",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/MyLevel.umap"
 			]
 		}
 	]
