@@ -5,25 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/CBLevel.umap",
-				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
-				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap",
-=======
-<<<<<<< Updated upstream
->>>>>>> c8e7e31f196f72773596946ce7b50f2839eca475
->>>>>>> Stashed changes
-				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap",
-				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Collectables/BP_Collectable_Base.uasset",
-				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
-				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/UI/Hud/WB_Hud.uasset"
-=======
-				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_Test.umap",
-				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_HauntedLevel.umap"
->>>>>>> Stashed changes
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_HauntedLevel.umap",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Desert/Material_Instances/MI_Palm_Bark.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Desert/Textures/T_Palm.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Dark/Material_Instances/MI_Rock_5.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Dark/StaticMeshes/SM_Tree_1.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Characters/MickeyMouse/Breathing_Idle.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_bridge_wood_01.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Dark/StaticMeshes/SM_Rock_1.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Dark/StaticMeshes/SM_Rock_6.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/textures/T_ENV_TERRAIN_grass_01_BC_Mat.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Green/Textures/T_Grass_Mat.uasset"
 			]
 		}
 	]
