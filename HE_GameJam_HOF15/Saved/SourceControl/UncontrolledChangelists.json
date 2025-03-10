@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_HauntedLevel.umap",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Desert/Material_Instances/MI_Palm_Bark.uasset",
@@ -18,6 +19,28 @@
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/textures/T_ENV_TERRAIN_grass_01_BC_Mat.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Green/Textures/T_Grass_Mat.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v01_01.uasset"
+=======
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Homebase.umap",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Green/Textures/T_Grass_Mat.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Sphere_28BC6B27.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Desert/Textures/T_Grass_Yellow_Mat.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Torus_D05DB95D.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Torus_4CFCF18B.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Sphere_DB8CCBA5.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Cylinder_37E7BF9A.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Sphere_F28399E3.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Disc_54AA96B7.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_Windows.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Sphere_5F75F115.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_Shoe.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Disc_2CB72779.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Sphere_47317F3D.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_Glove.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Cylinder_B0D613A3.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Torus_155E8480.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Cylinder_8078DF01.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/materials/M_CLR_assets_grid_green.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
