@@ -1,8 +1,12 @@
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 ﻿Log file open, 03/09/25 21:37:58
 ========
 ﻿Log file open, 03/09/25 21:45:13
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+﻿Log file open, 03/09/25 21:45:13
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -10,11 +14,15 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 LogWindows: Started CrashReportClient (pid=67008)
 ========
 LogWindows: Started CrashReportClient (pid=41156)
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+LogWindows: Started CrashReportClient (pid=41156)
+>>>>>>> Stashed changes
 LogWindows: Enabling Tpause support
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: HE_GameJam_HOF15
@@ -32,6 +40,7 @@ LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : commandline="" D:\GameJam\Hopeful-Encounters\HE_GameJam_HOF15\HE_GameJam_HOF15.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="e64add3946faefa4174f41abed6ce569"
 LogCsvProfiler: Display: Metadata set : llm="0"
@@ -43,6 +52,11 @@ LogInit: Session CrashGUID >====================================================
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 ========
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" D:\GitHub\Hopeful\Hopeful-Encounters\HE_GameJam_HOF15\HE_GameJam_HOF15.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="d42f79e4483009ae41020abaaaf282a5"
+LogCsvProfiler: Display: Metadata set : llm="0"
+>>>>>>> Stashed changes
 LogStats: Stats thread started at 0.512427
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
@@ -50,6 +64,7 @@ LogInit: Session CrashGUID >====================================================
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
 LogConfig: Display: Loading Mac ini files took 0.03 seconds
 LogAssetRegistry: Display: Asset registry cache read as 23.8 MiB from D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Intermediate/CachedAssetRegistry_0.bin
@@ -62,13 +77,20 @@ LogConfig: Display: Loading VisionOS ini files took 0.04 seconds
 LogConfig: Display: Loading TVOS ini files took 0.04 seconds
 LogConfig: Display: Loading Unix ini files took 0.04 seconds
 ========
+=======
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+>>>>>>> Stashed changes
 LogConfig: Display: Loading IOS ini files took 0.03 seconds
 LogAssetRegistry: Display: Asset registry cache read as 24.0 MiB from D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Intermediate/CachedAssetRegistry_0.bin
 LogConfig: Display: Loading Unix ini files took 0.03 seconds
 LogConfig: Display: Loading TVOS ini files took 0.03 seconds
 LogConfig: Display: Loading Windows ini files took 0.04 seconds
 LogConfig: Display: Loading VisionOS ini files took 0.04 seconds
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+>>>>>>> Stashed changes
 LogConfig: Display: Loading Linux ini files took 0.04 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
 LogPluginManager: Mounting Engine plugin Bridge
@@ -78,6 +100,7 @@ LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin ChaosVD
 LogPluginManager: Found config from plugin[ChaosVD] Engine
 LogPluginManager: Mounting Engine plugin CmdLinkServer
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
@@ -91,10 +114,16 @@ LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
 LogPluginManager: Mounting Engine plugin MeshPainting
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin RenderGraphInsights
+LogPluginManager: Mounting Engine plugin MeshPainting
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin AISupport
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 LogPluginManager: Mounting Engine plugin GameplayCameras
 LogPluginManager: Mounting Engine plugin CameraShakePreviewer
@@ -163,6 +192,8 @@ LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
 LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 ========
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin BlueprintHeaderView
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
@@ -176,11 +207,15 @@ LogPluginManager: Mounting Engine plugin EditorDebugTools
 LogPluginManager: Mounting Engine plugin CurveEditorTools
 LogPluginManager: Mounting Engine plugin DataValidation
 LogPluginManager: Mounting Engine plugin MeshLODToolset
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin GeometryMode
 LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
 LogPluginManager: Mounting Engine plugin MaterialAnalyzer
 LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
 LogPluginManager: Mounting Engine plugin PluginBrowser
@@ -232,15 +267,21 @@ LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin UdpMessaging
 LogPluginManager: Mounting Engine plugin TcpMessaging
 ========
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin SequencerAnimTools
 LogPluginManager: Mounting Engine plugin PluginBrowser
 LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ACLPlugin
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
 LogPluginManager: Mounting Engine plugin UVEditor
 LogPluginManager: Mounting Engine plugin AnimationData
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin ControlRigModules
@@ -250,10 +291,15 @@ LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin IKRig
 LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin Niagara
 LogPluginManager: Mounting Engine plugin ControlRig
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 LogPluginManager: Mounting Engine plugin Paper2D
@@ -296,6 +342,8 @@ SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 LogEOSSDK: Initializing EOSSDK Version:1.16.3-32303053
 ========
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ControlRigModules
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
 LogPluginManager: Mounting Engine plugin NiagaraSimCaching
@@ -431,7 +479,10 @@ LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+>>>>>>> Stashed changes
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
 LogInit:  - supports SSL with OpenSSL/1.1.1t
@@ -453,17 +504,21 @@ LogInit: CreateHttpThread using FCurlHttpThread
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 LogStudioTelemetry: Display: Starting StudioTelemetry Module
 LogStudioTelemetry: Display: Created an analytics provider LogAnalytics from module AnalyticsLog configuration Engine [StudioTelemetry.Log]
 LogStudioTelemetry: Started StudioTelemetry Session
 ========
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 ========
 LogStudioTelemetry: Display: Starting StudioTelemetry Module
@@ -474,6 +529,15 @@ LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.4-CL-35576357
 LogInit: Platform=WindowsEditor
 LogInit: MachineId=e64add3946faefa4174f41abed6ce569
+=======
+LogStudioTelemetry: Display: Starting StudioTelemetry Module
+LogStudioTelemetry: Display: Created an analytics provider LogAnalytics from module AnalyticsLog configuration Engine [StudioTelemetry.Log]
+LogStudioTelemetry: Started StudioTelemetry Session
+LogInit: ExecutableName: UnrealEditor.exe
+LogInit: Build: ++UE5+Release-5.4-CL-35576357
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=d42f79e4483009ae41020abaaaf282a5
+>>>>>>> Stashed changes
 LogInit: DeviceId=
 LogInit: Engine Version: 5.4.4-35576357+++UE5+Release-5.4
 LogInit: Compatible Engine Version: 5.4.0-33043543+++UE5+Release-5.4
@@ -538,6 +602,7 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
 LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 [2025.03.10-01.37.59:138][  0]LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:100000]] deferred - dummy variable created
 [2025.03.10-01.37.59:138][  0]LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
@@ -1276,6 +1341,8 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.10-01.38.15:319][367]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4864.0625 MiB, MemoryLimit = 1785.667969 MiB 
 [2025.03.10-01.38.15:323][367]LogMaterial: Warning: [AssetLog] D:\GameJam\Hopeful-Encounters\HE_GameJam_HOF15\Content\Orasot_Bundle\Stylized_Landscape_5_Bioms\Biom_Desert\Material_Instances\MI_Palm_Bark.uasset: Failed to compile Material Instance with Base M_Assets_MasterMat for platform PCD3D_SM6, Default Material will be used in game.
 ========
+=======
+>>>>>>> Stashed changes
 LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:100000]] deferred - dummy variable created
 LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
 [2025.03.10-01.45.13:543][  0]LogConfig: Set CVar [[r.VSync:0]]
@@ -1962,12 +2029,16 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.10-01.45.32:167][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2025.03.10-01.45.32:484][246]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
 [2025.03.10-01.45.32:537][246]LogMaterial: Warning: [AssetLog] D:\GitHub\Hopeful\Hopeful-Encounters\HE_GameJam_HOF15\Content\Orasot_Bundle\Stylized_Landscape_5_Bioms\Biom_Desert\Material_Instances\MI_Palm_Bark.uasset: Failed to compile Material Instance with Base M_Assets_MasterMat for platform PCD3D_SM6, Default Material will be used in game.
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+>>>>>>> Stashed changes
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property Normal
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property BaseColor
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property Specular
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property Roughness
 
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.41.06.log
 [2025.03.10-01.38.15:357][367]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CByrley/LevelOne.LevelOne
 [2025.03.10-01.38.15:357][367]Cmd: MAP LOAD FILE="D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
@@ -2040,6 +2111,8 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.10-01.38.25:295][734]LogExit: Exiting.
 [2025.03.10-01.38.25:305][734]Log file closed, 03/09/25 21:38:25
 ========
+=======
+>>>>>>> Stashed changes
 [2025.03.10-01.45.32:564][246]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DBritt/DMBritt.DMBritt
 [2025.03.10-01.45.32:564][246]Cmd: MAP LOAD FILE="D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
 [2025.03.10-01.45.32:631][246]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
@@ -2115,4 +2188,7 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.10-01.45.48:913][ 24]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.03.10-01.45.48:954][ 24]LogExit: Exiting.
 [2025.03.10-01.45.48:969][ 24]Log file closed, 03/09/25 21:45:48
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:HE_GameJam_HOF15/Saved/Logs/HE_GameJam_HOF15-backup-2025.03.10-01.45.48.log
+=======
+>>>>>>> Stashed changes

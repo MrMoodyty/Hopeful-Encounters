@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Characters/Minni/m.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Characters/Minni/Laying_Sleeping__1_.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Characters/Minni/Excited__1_.uasset",
@@ -19,6 +20,8 @@
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_Test.umap"
 =======
+=======
+>>>>>>> Stashed changes
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Collectables/BP_Collectable_Base.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/GM_DonaldDuck.uasset",
@@ -31,6 +34,9 @@
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/UI/Hud/HudUIIcon/Ellipse_5.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/UI/Hud/HudUIIcon/Ellipse_4.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			]
 		}
