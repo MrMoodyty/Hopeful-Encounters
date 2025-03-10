@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_HauntedLevel.umap",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Desert/Material_Instances/MI_Palm_Bark.uasset",
@@ -40,6 +41,20 @@
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Torus_155E8480.uasset",
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Cylinder_8078DF01.uasset",
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/materials/M_CLR_assets_grid_green.uasset"
+>>>>>>> Stashed changes
+=======
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Collectables/BP_Collectable_Base.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/UI/Hud/WB_Hud.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/Characters/DonaldDuck/Animations/Standing_1H_Magic_Attack_02_Anim_Montage.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/Projectile/BP_Projectile.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_FireProj.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/AM_Notify.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_stone_small_02.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/BP_Enemy.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Enemy/BP_Enemy.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/system/AC_Health.uasset"
 >>>>>>> Stashed changes
 			]
 		}
