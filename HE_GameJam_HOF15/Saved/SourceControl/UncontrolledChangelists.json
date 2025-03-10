@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_HauntedLevel.umap",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Desert/Material_Instances/MI_Palm_Bark.uasset",
@@ -55,6 +56,9 @@
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/BP_Enemy.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Enemy/BP_Enemy.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/system/AC_Health.uasset"
+>>>>>>> Stashed changes
+=======
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/Blueprints/BP_Destructable.uasset"
 >>>>>>> Stashed changes
 			]
 		}
