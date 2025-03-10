@@ -6,8 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap"
 =======
+=======
+>>>>>>> Stashed changes
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/StylizedForestLandscape/Materials/M_Master_Material_Prop.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/blueprints/buildings/BP_BLD_house_3.uasset",
@@ -16,6 +19,9 @@
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Meshes/Lands/SM_Small_Island.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Collectables/BP_Collectable_Base.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/MyLevel.umap"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			]
 		}

@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 03/09/25 21:37:58
+=======
+﻿Log file open, 03/09/25 19:43:10
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 03/09/25 19:43:10
 >>>>>>> Stashed changes
@@ -11,7 +15,11 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=67008)
+=======
+LogWindows: Started CrashReportClient (pid=36920)
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=36920)
 >>>>>>> Stashed changes
@@ -35,6 +43,7 @@ LogCsvProfiler: Display: Metadata set : asan="0"
 LogCsvProfiler: Display: Metadata set : commandline="" D:\GameJam\Hopeful-Encounters\HE_GameJam_HOF15\HE_GameJam_HOF15.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="e64add3946faefa4174f41abed6ce569"
 LogCsvProfiler: Display: Metadata set : llm="0"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogStats: Stats thread started at 0.402328
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
@@ -82,6 +91,30 @@ LogPluginManager: Found config from plugin[ChaosVD] Engine
 LogPluginManager: Mounting Engine plugin CmdLinkServer
 LogPluginManager: Mounting Engine plugin ChaosCloth
 >>>>>>> Stashed changes
+=======
+LogStats: Stats thread started at 0.627046
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-60F9F40C40A95C2D398320ABE96108EE
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading VisionOS ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogAssetRegistry: Display: Asset registry cache read as 23.8 MiB from D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Intermediate/CachedAssetRegistry_0.bin
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin ChaosVD
+LogPluginManager: Found config from plugin[ChaosVD] Engine
+LogPluginManager: Mounting Engine plugin CmdLinkServer
+LogPluginManager: Mounting Engine plugin ChaosCloth
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
 LogPluginManager: Mounting Engine plugin FastBuildController
@@ -89,8 +122,11 @@ LogPluginManager: Mounting Engine plugin Fab
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin TraceUtilities
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin XGEController
@@ -99,6 +135,7 @@ LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin TemplateSequence
 LogPluginManager: Mounting Engine plugin AISupport
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin GameplayCameras
 LogPluginManager: Mounting Engine plugin CameraShakePreviewer
@@ -302,6 +339,42 @@ LogPluginManager: Mounting Engine plugin SequencerAnimTools
 LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 LogPluginManager: Mounting Engine plugin UVEditor
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+=======
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigModules
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin OodleNetwork
@@ -432,6 +505,9 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
@@ -1946,12 +2022,16 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.09-23.44.05:186][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
 [2025.03.09-23.44.05:549][360]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
 [2025.03.09-23.44.05:599][360]LogMaterial: Warning: [AssetLog] D:\GitHub\Hopeful\Hopeful-Encounters\HE_GameJam_HOF15\Content\Orasot_Bundle\Stylized_Landscape_5_Bioms\Biom_Desert\Material_Instances\MI_Palm_Bark.uasset: Failed to compile Material Instance with Base M_Assets_MasterMat for platform PCD3D_SM6, Default Material will be used in game.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property Normal
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property BaseColor
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property Specular
 	Function MF_RVT: (Node MakeMaterialAttributes) Error on property Roughness
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2025.03.10-01.38.15:357][367]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CByrley/LevelOne.LevelOne
 [2025.03.10-01.38.15:357][367]Cmd: MAP LOAD FILE="D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
@@ -2024,6 +2104,8 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.10-01.38.25:295][734]LogExit: Exiting.
 [2025.03.10-01.38.25:305][734]Log file closed, 03/09/25 21:38:25
 =======
+=======
+>>>>>>> Stashed changes
 [2025.03.09-23.44.05:625][360]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DBritt/DMBritt.DMBritt
 [2025.03.09-23.44.05:626][360]Cmd: MAP LOAD FILE="D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
 [2025.03.09-23.44.05:656][360]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
@@ -2504,4 +2586,7 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.10-01.34.14:970][476]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.03.10-01.34.15:021][476]LogExit: Exiting.
 [2025.03.10-01.34.15:055][476]Log file closed, 03/09/25 21:34:15
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
