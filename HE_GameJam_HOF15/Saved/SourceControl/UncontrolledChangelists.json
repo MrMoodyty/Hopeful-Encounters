@@ -5,9 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/Blueprints/BP_Destructable.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/meshes/props/container/SM_PROP_box_03.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_Test.umap"
+=======
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Homebase.umap",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap"
+>>>>>>> Stashed changes
 			]
 		}
 	]
