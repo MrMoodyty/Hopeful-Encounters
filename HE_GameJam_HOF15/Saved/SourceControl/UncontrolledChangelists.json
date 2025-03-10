@@ -5,11 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Collectables/BP_Collectable_Base.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Meshes/Star1.uasset",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_HauntedLevel.umap",
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Homebase.umap"
+=======
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BPenemy/BP_Enemy.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BPenemy/ABP_Enemy.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_Test.umap",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/Projectile/BP_Projectile.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Characters/BloodyMickyMouse/Animations/Zombie_Dying_Montage.uasset",
+				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/TM_HauntedLevel.umap",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/BP_KillFloor.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/WBP_BlackScreen.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/BP_NPC.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/E_ReplyResult.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/BPI_NPCInteract.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/BL_Player.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
