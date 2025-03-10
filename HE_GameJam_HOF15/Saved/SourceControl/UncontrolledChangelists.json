@@ -5,8 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/LowPolyForestVol2/Material_Instances/MI_Grass_Inst.uasset",
 				"D:/GitHub/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap",
+=======
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/WBP_Credits.uasset",
+>>>>>>> Stashed changes
 				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap"
 			]
 		}
