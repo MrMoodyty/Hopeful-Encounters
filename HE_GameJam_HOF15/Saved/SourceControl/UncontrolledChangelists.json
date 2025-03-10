@@ -5,8 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap",
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_Hoop.uasset"
+=======
+<<<<<<< HEAD
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_Ramp.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_BalanceBeam.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Box_427013E3.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_Hoop.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/_GENERATED/camby/Torus_FC6BD8D2.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Components/BP_Pedastal.uasset"
+=======
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/MyLevel.umap",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/DMBritt.umap",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/Orasot_Bundle/StylizedForestLandscape/Materials/M_Master_Material_Prop.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/Fantastic_Village_Pack/blueprints/buildings/BP_BLD_house_3.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Meshes/Lands/SM_MERGED_StaticMeshActor_89.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Meshes/Lands/SM_Big_Island.uasset",
+				"D:/GitHub/Hopeful/Hopeful-Encounters/HE_GameJam_HOF15/Content/DBritt/Meshes/Lands/SM_Small_Island.uasset"
+>>>>>>> 1bc31c745f51b3ce9856125b349c3d55aa4750d4
+>>>>>>> Stashed changes
 			]
 		}
 	]
