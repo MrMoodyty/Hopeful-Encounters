@@ -7,7 +7,11 @@
 			"files": [
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/TylerM/PlayerCharacter/BP_PlayerCharacter.uasset",
 				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/LevelOne.umap",
-				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/BP_KillFloor.uasset"
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/BP_KillFloor.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/WBP_BlackScreen.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/BP_NPC.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/E_ReplyResult.uasset",
+				"D:/GameJam/Hopeful-Encounters/HE_GameJam_HOF15/Content/CByrley/Blueprints/Dialogue/BPI_NPCInteract.uasset"
 			]
 		}
 	]
